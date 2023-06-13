@@ -30,7 +30,7 @@ Step 4 (optional): If Nodemon not installed
 npm install -g nodemon
 ```
 
-Step 5: Start the application by
+Step 5: Start the application by.
 
 ```bash
 npm start
